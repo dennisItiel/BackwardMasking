@@ -14,6 +14,7 @@ The research reveals that masks interfere with figure-ground modulation in V1, p
 - Support Vector Machine (SVM) classification reveals spatial reorganization of informative neural activity
 - Early feedforward processing (~80-100ms) remains intact across all SOAs
 - Late feedback-dependent processing (~180-200ms) is disrupted by masking, correlating with reduced stimulus visibility
+![Alt text](GA.jpg)
 
 ## Experimental Methods
 - **Subjects**: Two adult male macaque monkeys (Macaca fascicularis)
@@ -77,3 +78,4 @@ The Gonda Multidisciplinary Brain Research Center, Bar-Ilan University, Israel
 - MATLAB R2021 or later
 - Statistics and Machine Learning Toolbox
 - Signal Processing Toolbox
+
